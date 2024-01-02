@@ -1,6 +1,5 @@
 # Raspberry-code
 An end of year project.
-You can check Rapport-PFA.pdf for more details
 
 ## Credits
 
