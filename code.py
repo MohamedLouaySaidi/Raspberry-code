@@ -35,7 +35,7 @@ SOUND_PIN=27
 GPIO.setup(SOUND_PIN, GPIO.IN)
 
 
-BLYNK_AUTH_TOKEN = "R8pI9uHTO2dkuffZCO6AG7IHYfoK_6fF"
+BLYNK_AUTH_TOKEN = ""
 blynk = BlynkLib.Blynk(BLYNK_AUTH_TOKEN)
 timer = BlynkTimer()
 
