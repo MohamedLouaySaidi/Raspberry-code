@@ -3,6 +3,7 @@ An end of year project.
 You can check Rapport-PFA.pdf for more details
 
 <embed src="Rapport-PFA.pdf" width="100%" height="850px"/>
+
 ## Credits
 
 This project was developed by:
